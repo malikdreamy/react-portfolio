@@ -4,9 +4,6 @@ import Bio from './Bio'
 import Projects from './Projects'
 import Contact from './Contact'
 
-// Import all of Bootstrap's CSS
-// import 'bootstrap/dist/css/bootstrap.min.css';
-// import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 
 
 
