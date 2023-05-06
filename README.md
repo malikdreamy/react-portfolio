@@ -20,4 +20,5 @@ To learn how to use React better so I re-made my portfolio using React
 
 N/A
 
-[Uploading Screen Shot 2023-05-06 at 3.46.02 PM.png…]()
+
+<img width="1442" alt="Screen Shot 2023-05-06 at 3 46 02 PM" src="https://user-images.githubusercontent.com/119153047/236649311-e2417f17-7fdb-4e57-90aa-e5e4e4f8b703.png">
